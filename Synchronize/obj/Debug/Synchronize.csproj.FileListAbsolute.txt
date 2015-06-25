@@ -1,0 +1,6 @@
+C:\Projekty\Synchronize\Synchronize\bin\Debug\Synchronize.exe.config
+C:\Projekty\Synchronize\Synchronize\bin\Debug\Synchronize.exe
+C:\Projekty\Synchronize\Synchronize\bin\Debug\Synchronize.pdb
+C:\Projekty\Synchronize\Synchronize\obj\Debug\Synchronize.csprojResolveAssemblyReference.cache
+C:\Projekty\Synchronize\Synchronize\obj\Debug\Synchronize.exe
+C:\Projekty\Synchronize\Synchronize\obj\Debug\Synchronize.pdb
